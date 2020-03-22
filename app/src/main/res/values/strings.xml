@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EjemploSQLite</string>
+    <string name="Registrar_btn">Registrar Usuario</string>
+    <string name="Consultar_btn">Consultar Usuario</string>
+    <string name="Consultar_s_btn">Consultar Usuario con Spinner</string>
+    <string name="Consultar_l_btn">Consultar Usuario con ListView</string>
+    <string name="Titulo_Registrar">Registrar Usuario</string>
+</resources>
